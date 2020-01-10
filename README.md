@@ -1,6 +1,8 @@
 # Continuous Intelligence and CD4ML Workshop
 
--forked to my GitHub acct Jan 2020.
+-forked to my GitHub acct Jan 2020
+
+-Added this line from Docker container
 
 This workshop contains the sample application and machine learning code used for
 the Continuous Delivery for Machine Learning (CD4ML) and Continuous Intelligence

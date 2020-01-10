@@ -1,5 +1,7 @@
 # Continuous Intelligence and CD4ML Workshop
 
+-forked to my GitHub acct Jan 2020.
+
 This workshop contains the sample application and machine learning code used for
 the Continuous Delivery for Machine Learning (CD4ML) and Continuous Intelligence
 workshop. This material has been developed and is continuously evolved by
